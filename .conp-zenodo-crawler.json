@@ -1,0 +1,12 @@
+{
+    "zenodo": {
+        "concept_doi": "4107084",
+        "version": "4107085"
+    },
+    "private_files": {
+        "archive_links": [],
+        "files": []
+    },
+    "restricted": false,
+    "title": "This is a test for the crawlers"
+}

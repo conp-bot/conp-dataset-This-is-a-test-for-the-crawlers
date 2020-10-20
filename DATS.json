@@ -1,0 +1,64 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.4107084",
+        "identifierSource": "DOI"
+    },
+    "title": "This is a test for the crawlers",
+    "creators": [
+        {
+            "name": "John"
+        }
+    ],
+    "description": "<p>this is a test for the CONP crawler</p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [],
+            "size": 15.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/4107085",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
